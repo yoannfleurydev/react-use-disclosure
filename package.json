@@ -1,0 +1,31 @@
+{
+  "name": "react-use-disclosure",
+  "version": "1.0.0",
+  "description": "Simple React custom hook to handle simple open, close, toggle states",
+  "main": "index.js",
+  "repository": "https://github.com/yoannfleurydev/useDisclosure",
+  "author": {
+    "name": "Yoann Fleury",
+    "email": "yoann.fleury@yahoo.com",
+    "url": "https://twitter.com/yoannfleurydev"
+  },
+  "license": "MIT",
+  "files": [
+    "index.*"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react": "16.11.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "@testing-library/react-hooks": "^3.1.1",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "react": "^16.11.0",
+    "react-test-renderer": "^16.11.0"
+  }
+}
