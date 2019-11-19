@@ -1,4 +1,4 @@
-import { useCallback, useState } from "react";
+const { useCallback, useState } = require("react");
 
 export const useDisclosure = (isOpenDefault = false) => {
   const [isOpen, setIsOpen] = useState(isOpenDefault);
