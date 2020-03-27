@@ -1,3 +1,16 @@
+# v1.1.5 (Fri Mar 27 2020)
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump babel-jest from 25.2.1 to 25.2.3 [#31](https://github.com/yoannfleurydev/useDisclosure/pull/31) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump jest from 25.2.2 to 25.2.3 [#30](https://github.com/yoannfleurydev/useDisclosure/pull/30) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v1.1.4 (Thu Mar 26 2020)
 
 #### 🐛 Bug Fix
