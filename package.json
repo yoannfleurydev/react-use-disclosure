@@ -20,21 +20,19 @@
     "react": "16.13.1"
   },
   "devDependencies": {
-    "@auto-it/all-contributors": "9.22.1",
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "@testing-library/react-hooks": "^3.2.1",
     "all-contributors-cli": "6.14.0",
     "auto": "9.22.1",
-    "babel-jest": "^25.2.1",
-    "jest": "^25.2.2",
+    "babel-jest": "^25.2.4",
+    "jest": "^25.2.4",
     "react": "^16.13.1",
     "react-test-renderer": "^16.13.1"
   },
   "auto": {
     "plugins": [
       "npm",
-      "all-contributors",
       "released"
     ],
     "onlyPublishWithReleaseLabel": true
