@@ -1,3 +1,20 @@
+# v1.1.6 (Mon Mar 30 2020)
+
+#### 🐛 Bug Fix
+
+- refactor: remove all contributors auto plugin [#36](https://github.com/yoannfleurydev/useDisclosure/pull/36) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump @auto-it/all-contributors from 9.21.0 to 9.22.1 [#35](https://github.com/yoannfleurydev/useDisclosure/pull/35) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 9.21.0 to 9.22.1 [#34](https://github.com/yoannfleurydev/useDisclosure/pull/34) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump babel-jest from 25.2.3 to 25.2.4 [#33](https://github.com/yoannfleurydev/useDisclosure/pull/33) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump jest from 25.2.3 to 25.2.4 [#32](https://github.com/yoannfleurydev/useDisclosure/pull/32) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 2
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v1.1.5 (Fri Mar 27 2020)
 
 #### 🐛 Bug Fix
