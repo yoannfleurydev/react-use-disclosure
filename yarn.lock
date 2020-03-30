@@ -2,13 +2,13 @@
 # yarn lockfile v1
 
 
-"@auto-it/all-contributors@9.21.0":
-  version "9.21.0"
-  resolved "https://registry.yarnpkg.com/@auto-it/all-contributors/-/all-contributors-9.21.0.tgz#178aee8144c713b8bd6b655155b7b42dc4da80b4"
-  integrity sha512-HvQDrw/NR5dW38z4VDpIbvJg5bbAWakIbs0nwy2uds6kSh1tlU9bROnaeCDFsz5npsTkFbMbDIRVCBVgzX7gzA==
+"@auto-it/all-contributors@9.22.1":
+  version "9.22.1"
+  resolved "https://registry.yarnpkg.com/@auto-it/all-contributors/-/all-contributors-9.22.1.tgz#a99b061d53d37cce12c0a110f23af6f126da061a"
+  integrity sha512-NmlGxdQ6mgzBFmIIIEfKGRBYr8NVLcPY+kYGI5X5UfZ76TQoZRVVBJNO+GA7GmjSz9bSi9etcXW+7tZzW7UHWg==
   dependencies:
-    "@auto-it/bot-list" "^9.21.0"
-    "@auto-it/core" "^9.21.0"
+    "@auto-it/bot-list" "^9.22.1"
+    "@auto-it/core" "^9.22.1"
     anymatch "^3.1.1"
     await-to-js "^2.1.1"
     fp-ts "^2.5.3"
@@ -16,17 +16,12 @@
     io-ts "^2.1.2"
     tslib "1.11.1"
 
-"@auto-it/bot-list@^9.21.0":
-  version "9.21.0"
-  resolved "https://registry.yarnpkg.com/@auto-it/bot-list/-/bot-list-9.21.0.tgz#787064b4b68f45d4bd754014f73212d8290ef607"
-  integrity sha512-smrlS+u4lDetoC+B2TYrH8dF14CNycRynJ0LItVQdC78WRpO5C+RK47+3GtCEkq/lgRV7yna6fdwgpdhX9msCQ==
-
 "@auto-it/bot-list@^9.22.1":
   version "9.22.1"
   resolved "https://registry.yarnpkg.com/@auto-it/bot-list/-/bot-list-9.22.1.tgz#45194d0ce0a68099ba151b9ae2f80fcbc28fbfc4"
   integrity sha512-j6kQ0MfRYvl+UTaOBCyoZv55oHF6uoTcozP+UQFWoZ2r4uf7Bf/KaR9ctQ+dsEvpaKUUwR+THIiI77ZaNMIATQ==
 
-"@auto-it/core@^9.21.0", "@auto-it/core@^9.22.1":
+"@auto-it/core@^9.22.1":
   version "9.22.1"
   resolved "https://registry.yarnpkg.com/@auto-it/core/-/core-9.22.1.tgz#04c5668af19536f6b12529f74ef70e7003a38205"
   integrity sha512-A5q2/UaZZgHadhg9i3Aq9wffW4v6Lv5ktmAm1/jBl6wvl+gfUY4fAcFjgy4YGof2mUWHn3f62hQ8WzngB/88iQ==
