@@ -24,7 +24,7 @@
     "@babel/preset-react": "^7.9.4",
     "@testing-library/react-hooks": "^3.2.1",
     "all-contributors-cli": "6.16.1",
-    "auto": "9.43.0",
+    "auto": "9.43.1",
     "babel-jest": "^26.0.0",
     "jest": "^26.0.0",
     "react": "^16.13.1",
