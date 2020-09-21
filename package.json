@@ -23,7 +23,7 @@
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "@testing-library/react-hooks": "^3.2.1",
-    "all-contributors-cli": "6.17.3",
+    "all-contributors-cli": "6.17.4",
     "auto": "9.53.1",
     "babel-jest": "^26.0.0",
     "jest": "^26.0.0",
