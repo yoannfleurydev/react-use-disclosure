@@ -27,8 +27,8 @@
     "auto": "9.59.1",
     "babel-jest": "^26.0.0",
     "jest": "^26.0.0",
-    "react": "^16.13.1",
-    "react-test-renderer": "^16.13.1"
+    "react": "^17.0.0",
+    "react-test-renderer": "^17.0.0"
   },
   "auto": {
     "plugins": [
