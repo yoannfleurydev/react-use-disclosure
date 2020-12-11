@@ -1,3 +1,51 @@
+# v1.5.0 (Fri Dec 11 2020)
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump @testing-library/react-hooks from 3.6.0 to 3.7.0 [#188](https://github.com/yoannfleurydev/useDisclosure/pull/188) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @testing-library/react-hooks from 3.5.0 to 3.6.0 [#187](https://github.com/yoannfleurydev/useDisclosure/pull/187) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @testing-library/react-hooks from 3.4.2 to 3.5.0 [#186](https://github.com/yoannfleurydev/useDisclosure/pull/186) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.3.0 to 10.4.0 [#182](https://github.com/yoannfleurydev/useDisclosure/pull/182) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.2.3 to 10.3.0 [#181](https://github.com/yoannfleurydev/useDisclosure/pull/181) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.0.2 to 10.2.0 [#174](https://github.com/yoannfleurydev/useDisclosure/pull/174) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 9.61.0 to 10.0.2 [#172](https://github.com/yoannfleurydev/useDisclosure/pull/172) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 9.60.1 to 9.61.0 [#171](https://github.com/yoannfleurydev/useDisclosure/pull/171) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 9.59.1 to 9.60.0 [#166](https://github.com/yoannfleurydev/useDisclosure/pull/166) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump react and react-test-renderer [#165](https://github.com/yoannfleurydev/useDisclosure/pull/165) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump babel-jest from 26.5.2 to 26.6.0 [#164](https://github.com/yoannfleurydev/useDisclosure/pull/164) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump jest from 26.5.3 to 26.6.0 [#163](https://github.com/yoannfleurydev/useDisclosure/pull/163) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps): [security] bump ini from 1.3.5 to 1.3.7 [#192](https://github.com/yoannfleurydev/useDisclosure/pull/192) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-react from 7.12.7 to 7.12.10 [#191](https://github.com/yoannfleurydev/useDisclosure/pull/191) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.12.7 to 7.12.10 [#190](https://github.com/yoannfleurydev/useDisclosure/pull/190) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.4.0 to 10.4.2 [#185](https://github.com/yoannfleurydev/useDisclosure/pull/185) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-react from 7.12.5 to 7.12.7 [#183](https://github.com/yoannfleurydev/useDisclosure/pull/183) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.12.1 to 7.12.7 [#184](https://github.com/yoannfleurydev/useDisclosure/pull/184) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump jest from 26.6.2 to 26.6.3 [#179](https://github.com/yoannfleurydev/useDisclosure/pull/179) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.2.1 to 10.2.3 [#178](https://github.com/yoannfleurydev/useDisclosure/pull/178) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump babel-jest from 26.6.2 to 26.6.3 [#180](https://github.com/yoannfleurydev/useDisclosure/pull/180) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-react from 7.12.1 to 7.12.5 [#177](https://github.com/yoannfleurydev/useDisclosure/pull/177) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.2.0 to 10.2.1 [#176](https://github.com/yoannfleurydev/useDisclosure/pull/176) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump jest from 26.6.1 to 26.6.2 [#175](https://github.com/yoannfleurydev/useDisclosure/pull/175) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump babel-jest from 26.6.1 to 26.6.2 [#173](https://github.com/yoannfleurydev/useDisclosure/pull/173) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 9.60.0 to 9.60.1 [#170](https://github.com/yoannfleurydev/useDisclosure/pull/170) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump babel-jest from 26.6.0 to 26.6.1 [#168](https://github.com/yoannfleurydev/useDisclosure/pull/168) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump react from 17.0.0 to 17.0.1 [#169](https://github.com/yoannfleurydev/useDisclosure/pull/169) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump jest from 26.6.0 to 26.6.1 [#167](https://github.com/yoannfleurydev/useDisclosure/pull/167) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### ⚠️ Pushed to `master`
+
+- docs: add sponsorship ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### Authors: 2
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v1.4.0 (Sat Oct 17 2020)
 
 #### 🚀 Enhancement
