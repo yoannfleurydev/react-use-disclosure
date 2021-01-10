@@ -1,3 +1,26 @@
+# v2.0.0 (Sun Jan 10 2021)
+
+#### 💥 Breaking Change
+
+- build(deps-dev): bump @testing-library/react-hooks from 3.7.0 to 4.0.0 [#196](https://github.com/yoannfleurydev/react-use-disclosure/pull/196) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🚀 Enhancement
+
+- fix: update types to remove optionnal [#197](https://github.com/yoannfleurydev/react-use-disclosure/pull/197) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump auto from 10.4.2 to 10.5.0 [#195](https://github.com/yoannfleurydev/react-use-disclosure/pull/195) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps): [security] bump node-notifier from 8.0.0 to 8.0.1 [#194](https://github.com/yoannfleurydev/react-use-disclosure/pull/194) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.12.10 to 7.12.11 [#193](https://github.com/yoannfleurydev/react-use-disclosure/pull/193) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 2
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v1.5.0 (Fri Dec 11 2020)
 
 #### 🚀 Enhancement
