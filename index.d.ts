@@ -1,8 +1,8 @@
 interface IDisclosure {
-  isOpen?: boolean;
-  open?: () => void;
-  close?: () => void;
-  toggle?: () => void;
+  isOpen: boolean;
+  open: () => void;
+  close: () => void;
+  toggle: () => void;
 }
 
 /**
