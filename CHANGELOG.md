@@ -1,3 +1,60 @@
+# v3.0.0 (Tue Mar 23 2021)
+
+#### 💥 Breaking Change
+
+- build(deps-dev): bump @testing-library/react-hooks from 4.0.1 to 5.0.0 [#202](https://github.com/yoannfleurydev/react-use-disclosure/pull/202) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump auto from 10.21.0 to 10.22.0 [#238](https://github.com/yoannfleurydev/react-use-disclosure/pull/238) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.20.6 to 10.21.0 [#236](https://github.com/yoannfleurydev/react-use-disclosure/pull/236) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.18.7 to 10.20.4 [#234](https://github.com/yoannfleurydev/react-use-disclosure/pull/234) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.16.8 to 10.18.1 [#228](https://github.com/yoannfleurydev/react-use-disclosure/pull/228) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @testing-library/react-hooks from 5.0.3 to 5.1.0 [#227](https://github.com/yoannfleurydev/react-use-disclosure/pull/227) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.12.17 to 7.13.0 [#222](https://github.com/yoannfleurydev/react-use-disclosure/pull/222) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump all-contributors-cli from 6.19.0 to 6.20.0 [#217](https://github.com/yoannfleurydev/react-use-disclosure/pull/217) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.15.0 to 10.16.0 [#214](https://github.com/yoannfleurydev/react-use-disclosure/pull/214) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.13.4 to 10.15.0 [#213](https://github.com/yoannfleurydev/react-use-disclosure/pull/213) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.12.2 to 10.13.2 [#208](https://github.com/yoannfleurydev/react-use-disclosure/pull/208) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.11.0 to 10.12.2 [#206](https://github.com/yoannfleurydev/react-use-disclosure/pull/206) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.10.0 to 10.11.0 [#205](https://github.com/yoannfleurydev/react-use-disclosure/pull/205) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.6.1 to 10.10.0 [#204](https://github.com/yoannfleurydev/react-use-disclosure/pull/204) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.5.1 to 10.6.0 [#199](https://github.com/yoannfleurydev/react-use-disclosure/pull/199) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump @babel/preset-env from 7.13.10 to 7.13.12 [#239](https://github.com/yoannfleurydev/react-use-disclosure/pull/239) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump react from 17.0.1 to 17.0.2 [#237](https://github.com/yoannfleurydev/react-use-disclosure/pull/237) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.20.4 to 10.20.6 [#235](https://github.com/yoannfleurydev/react-use-disclosure/pull/235) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.18.4 to 10.18.7 [#232](https://github.com/yoannfleurydev/react-use-disclosure/pull/232) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.18.3 to 10.18.4 [#231](https://github.com/yoannfleurydev/react-use-disclosure/pull/231) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.13.9 to 7.13.10 [#230](https://github.com/yoannfleurydev/react-use-disclosure/pull/230) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.18.1 to 10.18.3 [#229](https://github.com/yoannfleurydev/react-use-disclosure/pull/229) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.13.8 to 7.13.9 [#226](https://github.com/yoannfleurydev/react-use-disclosure/pull/226) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.13.5 to 7.13.8 [#225](https://github.com/yoannfleurydev/react-use-disclosure/pull/225) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.16.7 to 10.16.8 [#224](https://github.com/yoannfleurydev/react-use-disclosure/pull/224) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.13.0 to 7.13.5 [#223](https://github.com/yoannfleurydev/react-use-disclosure/pull/223) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.16.6 to 10.16.7 [#221](https://github.com/yoannfleurydev/react-use-disclosure/pull/221) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.12.16 to 7.12.17 [#219](https://github.com/yoannfleurydev/react-use-disclosure/pull/219) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.16.5 to 10.16.6 [#220](https://github.com/yoannfleurydev/react-use-disclosure/pull/220) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.16.4 to 10.16.5 [#218](https://github.com/yoannfleurydev/react-use-disclosure/pull/218) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.16.0 to 10.16.4 [#216](https://github.com/yoannfleurydev/react-use-disclosure/pull/216) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.12.13 to 7.12.16 [#215](https://github.com/yoannfleurydev/react-use-disclosure/pull/215) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.12.11 to 7.12.13 [#212](https://github.com/yoannfleurydev/react-use-disclosure/pull/212) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @babel/preset-react from 7.12.10 to 7.12.13 [#211](https://github.com/yoannfleurydev/react-use-disclosure/pull/211) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.13.3 to 10.13.4 [#210](https://github.com/yoannfleurydev/react-use-disclosure/pull/210) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.13.2 to 10.13.3 [#209](https://github.com/yoannfleurydev/react-use-disclosure/pull/209) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @testing-library/react-hooks from 5.0.0 to 5.0.3 [#207](https://github.com/yoannfleurydev/react-use-disclosure/pull/207) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @testing-library/react-hooks from 4.0.0 to 4.0.1 [#200](https://github.com/yoannfleurydev/react-use-disclosure/pull/200) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.6.0 to 10.6.1 [#201](https://github.com/yoannfleurydev/react-use-disclosure/pull/201) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.5.0 to 10.5.1 [#198](https://github.com/yoannfleurydev/react-use-disclosure/pull/198) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v2.0.0 (Sun Jan 10 2021)
 
 #### 💥 Breaking Change
