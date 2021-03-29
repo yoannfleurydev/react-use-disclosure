@@ -1,3 +1,21 @@
+# v3.1.0 (Mon Mar 29 2021)
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump @babel/preset-react from 7.12.13 to 7.13.13 [#241](https://github.com/yoannfleurydev/react-use-disclosure/pull/241) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.22.1 to 10.23.0 [#242](https://github.com/yoannfleurydev/react-use-disclosure/pull/242) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps): [security] bump y18n from 4.0.0 to 4.0.1 [#243](https://github.com/yoannfleurydev/react-use-disclosure/pull/243) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.22.0 to 10.22.1 [#240](https://github.com/yoannfleurydev/react-use-disclosure/pull/240) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 1
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+
+---
+
 # v3.0.0 (Tue Mar 23 2021)
 
 #### 💥 Breaking Change
