@@ -1,3 +1,38 @@
+# v3.2.0 (Mon May 10 2021)
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump auto from 10.26.1 to 10.27.0 [#258](https://github.com/yoannfleurydev/react-use-disclosure/pull/258) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.13.15 to 7.14.0 [#255](https://github.com/yoannfleurydev/react-use-disclosure/pull/255) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.25.2 to 10.26.0 [#254](https://github.com/yoannfleurydev/react-use-disclosure/pull/254) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.24.3 to 10.25.0 [#249](https://github.com/yoannfleurydev/react-use-disclosure/pull/249) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.23.0 to 10.24.1 [#245](https://github.com/yoannfleurydev/react-use-disclosure/pull/245) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps): bump hosted-git-info from 2.8.8 to 2.8.9 [#259](https://github.com/yoannfleurydev/react-use-disclosure/pull/259) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump lodash from 4.17.19 to 4.17.21 [#260](https://github.com/yoannfleurydev/react-use-disclosure/pull/260) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.26.0 to 10.26.1 [#256](https://github.com/yoannfleurydev/react-use-disclosure/pull/256) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.14.0 to 7.14.1 [#257](https://github.com/yoannfleurydev/react-use-disclosure/pull/257) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.25.1 to 10.25.2 [#252](https://github.com/yoannfleurydev/react-use-disclosure/pull/252) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @testing-library/react-hooks from 5.1.1 to 5.1.2 [#251](https://github.com/yoannfleurydev/react-use-disclosure/pull/251) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.25.0 to 10.25.1 [#250](https://github.com/yoannfleurydev/react-use-disclosure/pull/250) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps): bump gitlog from 4.0.3 to 4.0.4 [#248](https://github.com/yoannfleurydev/react-use-disclosure/pull/248) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.13.12 to 7.13.15 [#247](https://github.com/yoannfleurydev/react-use-disclosure/pull/247) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump auto from 10.24.1 to 10.24.3 [#246](https://github.com/yoannfleurydev/react-use-disclosure/pull/246) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+- build(deps-dev): bump @testing-library/react-hooks from 5.1.0 to 5.1.1 [#244](https://github.com/yoannfleurydev/react-use-disclosure/pull/244) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### 🔩 Dependency Updates
+
+- Upgrade to GitHub-native Dependabot [#253](https://github.com/yoannfleurydev/react-use-disclosure/pull/253) ([@dependabot-preview[bot]](https://github.com/dependabot-preview[bot]))
+
+#### Authors: 2
+
+- [@dependabot-preview[bot]](https://github.com/dependabot-preview[bot])
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v3.1.0 (Mon Mar 29 2021)
 
 #### 🚀 Enhancement
