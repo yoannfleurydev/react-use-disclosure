@@ -42,3 +42,21 @@ test("should toggle the state", () => {
 
   expect(result.current.isOpen).toBe(false);
 });
+
+test("should toggle by given value", () => {
+  const { result } = renderHook(() => useDisclosure());
+
+  expect(result.current.isOpen).toBe(false);
+
+  act(() => {
+    result.current.toggle(false);
+  });
+
+  expect(result.current.isOpen).toBe(false);
+
+  act(() => {
+    result.current.toggle(true);
+  });
+
+  expect(result.current.isOpen).toBe(true);
+});
