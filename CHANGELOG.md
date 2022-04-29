@@ -1,3 +1,24 @@
+# v5.1.0 (Fri Apr 29 2022)
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump react-test-renderer from 18.0.0 to 18.1.0 [#364](https://github.com/yoannfleurydev/react-use-disclosure/pull/364) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- feat: allow passing a value to toggle [#366](https://github.com/yoannfleurydev/react-use-disclosure/pull/366) ([@idanen](https://github.com/idanen))
+- build(deps-dev): bump react from 18.0.0 to 18.1.0 [#361](https://github.com/yoannfleurydev/react-use-disclosure/pull/361) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump babel-jest from 28.0.1 to 28.0.2 [#363](https://github.com/yoannfleurydev/react-use-disclosure/pull/363) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 28.0.0 to 28.0.2 [#362](https://github.com/yoannfleurydev/react-use-disclosure/pull/362) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 28.0.0 to 28.0.1 [#360](https://github.com/yoannfleurydev/react-use-disclosure/pull/360) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Idan Entin ([@idanen](https://github.com/idanen))
+
+---
+
 # v5.0.0 (Tue Apr 26 2022)
 
 #### 💥 Breaking Change
