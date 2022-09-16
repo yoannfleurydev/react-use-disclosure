@@ -1,3 +1,46 @@
+# v6.0.0 (Fri Sep 16 2022)
+
+#### 💥 Breaking Change
+
+- build(deps-dev): bump @testing-library/react-hooks from 7.0.2 to 8.0.1 [#397](https://github.com/yoannfleurydev/react-use-disclosure/pull/397) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 28.1.3 to 29.0.1 [#395](https://github.com/yoannfleurydev/react-use-disclosure/pull/395) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 28.1.3 to 29.0.1 [#396](https://github.com/yoannfleurydev/react-use-disclosure/pull/396) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump @babel/preset-env from 7.18.10 to 7.19.0 [#400](https://github.com/yoannfleurydev/react-use-disclosure/pull/400) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump jest from 29.0.2 to 29.0.3 [#403](https://github.com/yoannfleurydev/react-use-disclosure/pull/403) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.19.0 to 7.19.1 [#406](https://github.com/yoannfleurydev/react-use-disclosure/pull/406) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.37.4 to 10.37.6 [#405](https://github.com/yoannfleurydev/react-use-disclosure/pull/405) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.0.2 to 29.0.3 [#404](https://github.com/yoannfleurydev/react-use-disclosure/pull/404) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump all-contributors-cli from 6.20.0 to 6.20.4 [#402](https://github.com/yoannfleurydev/react-use-disclosure/pull/402) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.0.1 to 29.0.2 [#398](https://github.com/yoannfleurydev/react-use-disclosure/pull/398) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.0.1 to 29.0.2 [#399](https://github.com/yoannfleurydev/react-use-disclosure/pull/399) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.18.9 to 7.18.10 [#392](https://github.com/yoannfleurydev/react-use-disclosure/pull/392) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.37.3 to 10.37.4 [#391](https://github.com/yoannfleurydev/react-use-disclosure/pull/391) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.37.2 to 10.37.3 [#390](https://github.com/yoannfleurydev/react-use-disclosure/pull/390) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.18.6 to 7.18.9 [#389](https://github.com/yoannfleurydev/react-use-disclosure/pull/389) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 10.37.1 to 10.37.2 [#388](https://github.com/yoannfleurydev/react-use-disclosure/pull/388) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 28.1.2 to 28.1.3 [#386](https://github.com/yoannfleurydev/react-use-disclosure/pull/386) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 28.1.2 to 28.1.3 [#387](https://github.com/yoannfleurydev/react-use-disclosure/pull/387) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 28.1.1 to 28.1.2 [#384](https://github.com/yoannfleurydev/react-use-disclosure/pull/384) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 28.1.1 to 28.1.2 [#385](https://github.com/yoannfleurydev/react-use-disclosure/pull/385) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### ⚠️ Pushed to `master`
+
+- ci: remove node 12 from the matrix ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- ci: add node 18 to matrix and release with latest lts ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v5.2.0 (Tue Jun 28 2022)
 
 #### 🚀 Enhancement
