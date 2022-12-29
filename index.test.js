@@ -59,4 +59,16 @@ test("should toggle by given value", () => {
   });
 
   expect(result.current.isOpen).toBe(true);
+
+  act(() => {
+    result.current.toggle(null);
+  });
+
+  expect(result.current.isOpen).toBe(false);
+
+  act(() => {
+    result.current.toggle("true");
+  });
+
+  expect(result.current.isOpen).toBe(true);
 });
