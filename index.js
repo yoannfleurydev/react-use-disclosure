@@ -10,7 +10,7 @@ module.exports = {
       if (typeof toSet === "undefined") {
         setIsOpen((state) => !state);
       } else {
-        setIsOpen(toSet);
+        setIsOpen(Boolean(toSet));
       }
     }, []);
 
