@@ -2,7 +2,7 @@ interface IDisclosure {
   isOpen: boolean;
   open: () => void;
   close: () => void;
-  toggle: () => void;
+  toggle: (toSet?: boolean) => void;
 }
 
 /**
