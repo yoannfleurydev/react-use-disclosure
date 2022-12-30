@@ -1,3 +1,39 @@
+# v6.1.0 (Fri Dec 30 2022)
+
+#### 🚀 Enhancement
+
+- fix: always cast toggle toSet value to boolean [#431](https://github.com/yoannfleurydev/react-use-disclosure/pull/431) ([@feliskio](https://github.com/feliskio))
+- fix: adjust toggle type signature to include toSet [#431](https://github.com/yoannfleurydev/react-use-disclosure/pull/431) ([@feliskio](https://github.com/feliskio))
+- build(deps-dev): bump babel-jest from 29.2.2 to 29.3.0 [#426](https://github.com/yoannfleurydev/react-use-disclosure/pull/426) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.2.2 to 29.3.0 [#427](https://github.com/yoannfleurydev/react-use-disclosure/pull/427) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.19.4 to 7.20.2 [#425](https://github.com/yoannfleurydev/react-use-disclosure/pull/425) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.1.2 to 29.2.1 [#421](https://github.com/yoannfleurydev/react-use-disclosure/pull/421) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.1.2 to 29.2.0 [#420](https://github.com/yoannfleurydev/react-use-disclosure/pull/420) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump all-contributors-cli from 6.23.1 to 6.24.0 [#417](https://github.com/yoannfleurydev/react-use-disclosure/pull/417) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump all-contributors-cli from 6.21.0 to 6.23.0 [#415](https://github.com/yoannfleurydev/react-use-disclosure/pull/415) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.0.3 to 29.1.2 [#413](https://github.com/yoannfleurydev/react-use-disclosure/pull/413) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.0.3 to 29.1.1 [#412](https://github.com/yoannfleurydev/react-use-disclosure/pull/412) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump all-contributors-cli from 6.20.4 to 6.21.0 [#409](https://github.com/yoannfleurydev/react-use-disclosure/pull/409) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump babel-jest from 29.3.0 to 29.3.1 [#429](https://github.com/yoannfleurydev/react-use-disclosure/pull/429) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.3.0 to 29.3.1 [#428](https://github.com/yoannfleurydev/react-use-disclosure/pull/428) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.2.1 to 29.2.2 [#423](https://github.com/yoannfleurydev/react-use-disclosure/pull/423) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.2.1 to 29.2.2 [#424](https://github.com/yoannfleurydev/react-use-disclosure/pull/424) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.2.0 to 29.2.1 [#422](https://github.com/yoannfleurydev/react-use-disclosure/pull/422) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.19.3 to 7.19.4 [#418](https://github.com/yoannfleurydev/react-use-disclosure/pull/418) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump all-contributors-cli from 6.23.0 to 6.23.1 [#416](https://github.com/yoannfleurydev/react-use-disclosure/pull/416) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.19.1 to 7.19.3 [#408](https://github.com/yoannfleurydev/react-use-disclosure/pull/408) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.1.1 to 29.1.2 [#414](https://github.com/yoannfleurydev/react-use-disclosure/pull/414) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Felix Wotschofsky ([@feliskio](https://github.com/feliskio))
+
+---
+
 # v6.0.0 (Fri Sep 16 2022)
 
 #### 💥 Breaking Change
