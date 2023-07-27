@@ -1,3 +1,22 @@
+# v6.2.1 (Thu Jul 27 2023)
+
+#### 🐛 Bug Fix
+
+- fix: peer dependencies react range [#473](https://github.com/yoannfleurydev/react-use-disclosure/pull/473) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump @babel/preset-env from 7.22.7 to 7.22.9 [#472](https://github.com/yoannfleurydev/react-use-disclosure/pull/472) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump semver from 5.7.1 to 5.7.2 [#471](https://github.com/yoannfleurydev/react-use-disclosure/pull/471) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.22.6 to 7.22.7 [#468](https://github.com/yoannfleurydev/react-use-disclosure/pull/468) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.6.0 to 29.6.1 [#467](https://github.com/yoannfleurydev/react-use-disclosure/pull/467) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.6.0 to 29.6.1 [#469](https://github.com/yoannfleurydev/react-use-disclosure/pull/469) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump all-contributors-cli from 6.26.0 to 6.26.1 [#470](https://github.com/yoannfleurydev/react-use-disclosure/pull/470) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v6.2.0 (Thu Jul 06 2023)
 
 #### 🚀 Enhancement
