@@ -1,6 +1,6 @@
 {
   "name": "react-use-disclosure",
-  "version": "6.2.0",
+  "version": "6.2.1",
   "description": "Simple React custom hook to handle simple open, close, toggle states",
   "main": "index.js",
   "repository": "https://github.com/yoannfleurydev/useDisclosure",
