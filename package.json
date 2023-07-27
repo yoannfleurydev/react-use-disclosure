@@ -17,7 +17,7 @@
     "test": "jest"
   },
   "peerDependencies": {
-    "react": "16.13.1"
+    "react": ">=16.13.1 <19"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.9.0",
