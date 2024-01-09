@@ -1,3 +1,45 @@
+# v7.0.0 (Tue Jan 09 2024)
+
+#### 💥 Breaking Change
+
+- build(deps-dev): bump auto from 10.46.0 to 11.0.0 [#476](https://github.com/yoannfleurydev/react-use-disclosure/pull/476) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump @babel/preset-react from 7.22.15 to 7.23.3 [#494](https://github.com/yoannfleurydev/react-use-disclosure/pull/494) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump @babel/traverse from 7.16.7 to 7.23.2 [#492](https://github.com/yoannfleurydev/react-use-disclosure/pull/492) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.22.20 to 7.23.2 [#491](https://github.com/yoannfleurydev/react-use-disclosure/pull/491) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.6.4 to 29.7.0 [#489](https://github.com/yoannfleurydev/react-use-disclosure/pull/489) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.6.4 to 29.7.0 [#488](https://github.com/yoannfleurydev/react-use-disclosure/pull/488) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump @babel/preset-env from 7.23.7 to 7.23.8 [#498](https://github.com/yoannfleurydev/react-use-disclosure/pull/498) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.23.6 to 7.23.7 [#497](https://github.com/yoannfleurydev/react-use-disclosure/pull/497) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.23.5 to 7.23.6 [#496](https://github.com/yoannfleurydev/react-use-disclosure/pull/496) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.23.3 to 7.23.5 [#495](https://github.com/yoannfleurydev/react-use-disclosure/pull/495) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.23.2 to 7.23.3 [#493](https://github.com/yoannfleurydev/react-use-disclosure/pull/493) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.22.15 to 7.22.20 [#490](https://github.com/yoannfleurydev/react-use-disclosure/pull/490) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 11.0.2 to 11.0.4 [#487](https://github.com/yoannfleurydev/react-use-disclosure/pull/487) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.22.14 to 7.22.15 [#484](https://github.com/yoannfleurydev/react-use-disclosure/pull/484) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-react from 7.22.5 to 7.22.15 [#485](https://github.com/yoannfleurydev/react-use-disclosure/pull/485) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 11.0.1 to 11.0.2 [#486](https://github.com/yoannfleurydev/react-use-disclosure/pull/486) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.22.10 to 7.22.14 [#483](https://github.com/yoannfleurydev/react-use-disclosure/pull/483) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.6.3 to 29.6.4 [#481](https://github.com/yoannfleurydev/react-use-disclosure/pull/481) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.6.3 to 29.6.4 [#482](https://github.com/yoannfleurydev/react-use-disclosure/pull/482) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.6.2 to 29.6.3 [#479](https://github.com/yoannfleurydev/react-use-disclosure/pull/479) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.6.2 to 29.6.3 [#480](https://github.com/yoannfleurydev/react-use-disclosure/pull/480) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 11.0.0 to 11.0.1 [#478](https://github.com/yoannfleurydev/react-use-disclosure/pull/478) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.22.9 to 7.22.10 [#477](https://github.com/yoannfleurydev/react-use-disclosure/pull/477) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump babel-jest from 29.6.1 to 29.6.2 [#474](https://github.com/yoannfleurydev/react-use-disclosure/pull/474) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jest from 29.6.1 to 29.6.2 [#475](https://github.com/yoannfleurydev/react-use-disclosure/pull/475) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v6.2.1 (Thu Jul 27 2023)
 
 #### 🐛 Bug Fix
