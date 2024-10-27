@@ -1,3 +1,30 @@
+# v7.3.0 (Sun Oct 27 2024)
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump auto from 11.2.1 to 11.3.0 [#534](https://github.com/yoannfleurydev/react-use-disclosure/pull/534) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-react from 7.24.7 to 7.25.7 [#529](https://github.com/yoannfleurydev/react-use-disclosure/pull/529) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.24.8 to 7.25.0 [#523](https://github.com/yoannfleurydev/react-use-disclosure/pull/523) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 11.1.6 to 11.2.0 [#522](https://github.com/yoannfleurydev/react-use-disclosure/pull/522) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump @babel/preset-react from 7.25.7 to 7.25.9 [#532](https://github.com/yoannfleurydev/react-use-disclosure/pull/532) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.25.8 to 7.25.9 [#533](https://github.com/yoannfleurydev/react-use-disclosure/pull/533) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.25.7 to 7.25.8 [#531](https://github.com/yoannfleurydev/react-use-disclosure/pull/531) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.25.4 to 7.25.7 [#530](https://github.com/yoannfleurydev/react-use-disclosure/pull/530) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 11.2.0 to 11.2.1 [#528](https://github.com/yoannfleurydev/react-use-disclosure/pull/528) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps): bump micromatch from 4.0.2 to 4.0.8 [#527](https://github.com/yoannfleurydev/react-use-disclosure/pull/527) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.25.3 to 7.25.4 [#526](https://github.com/yoannfleurydev/react-use-disclosure/pull/526) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.25.2 to 7.25.3 [#525](https://github.com/yoannfleurydev/react-use-disclosure/pull/525) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.25.0 to 7.25.2 [#524](https://github.com/yoannfleurydev/react-use-disclosure/pull/524) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v7.2.0 (Fri Jul 12 2024)
 
 #### 🚀 Enhancement
