@@ -1,8 +1,10 @@
-import { renderHook, act } from "@testing-library/react-hooks";
+// @vitest-environment jsdom
+import { renderHook, act } from "@testing-library/react";
 import { useDisclosure } from "./index";
+import { test, expect } from "vitest";
 
 test("should open the state", () => {
-  const { result } = renderHook(() => useDisclosure());
+  const { result } = renderHook(useDisclosure);
 
   expect(result.current.isOpen).toBe(false);
 
@@ -14,7 +16,7 @@ test("should open the state", () => {
 });
 
 test("should close the state", () => {
-  const { result } = renderHook(() => useDisclosure());
+  const { result } = renderHook(useDisclosure);
 
   expect(result.current.isOpen).toBe(false);
 
@@ -26,7 +28,7 @@ test("should close the state", () => {
 });
 
 test("should toggle the state", () => {
-  const { result } = renderHook(() => useDisclosure());
+  const { result } = renderHook(useDisclosure);
 
   expect(result.current.isOpen).toBe(false);
 
@@ -44,7 +46,7 @@ test("should toggle the state", () => {
 });
 
 test("should toggle by given value", () => {
-  const { result } = renderHook(() => useDisclosure());
+  const { result } = renderHook(useDisclosure);
 
   expect(result.current.isOpen).toBe(false);
 
