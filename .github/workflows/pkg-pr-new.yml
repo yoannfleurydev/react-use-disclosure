@@ -1,1 +1,39 @@
 # npx pkg-pr-new publish
+name: PR Preview
+on:
+  pull_request:
+    types: [opened, synchronize, labeled]
+  pull_request_review:
+    types: [submitted]
+
+jobs:
+  deploy-preview:
+    name: Deploy to pkg.pr.new
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v3
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build package
+        run: pnpm build
+
+      - name: Set package version
+        run: |
+          pnpm pkg set version=0.0.0-preview.${{ github.event.pull_request.head.sha }}
+          echo "::notice title=Install (PR)::pnpm add https://pkg.pr.new/react-use-disclosure@${{ github.event.pull_request.number }}"
+          echo "::notice title=Install (SHA)::pnpm add https://pkg.pr.new/react-use-disclosure@${{ github.event.pull_request.head.sha }}"
+          echo "::notice title=Version::0.0.0-preview.${{ github.event.pull_request.head.sha }}"
+        working-directory: .
+      - name: Publish to pkg.pr.new
+        run: pnpx pkg-pr-new publish --compact '.' --no-template --packageManager=pnpm --pnpm
