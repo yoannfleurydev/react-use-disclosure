@@ -2,7 +2,10 @@
   "name": "react-use-disclosure",
   "version": "7.3.0",
   "description": "Simple React custom hook to handle simple open, close, toggle states",
-  "repository": "https://github.com/yoannfleurydev/useDisclosure",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannfleurydev/react-use-disclosure.git"
+  },
   "author": {
     "name": "Yoann Fleury",
     "email": "yoann.fleury@yahoo.com",
