@@ -1,3 +1,17 @@
+# v8.0.3 (Thu Mar 20 2025)
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump @types/react from 19.0.11 to 19.0.12 [#544](https://github.com/yoannfleurydev/react-use-disclosure/pull/544) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- feat: ts tests and code coverage [#543](https://github.com/yoannfleurydev/react-use-disclosure/pull/543) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v8.0.2 (Thu Mar 20 2025)
 
 #### 🐛 Bug Fix
