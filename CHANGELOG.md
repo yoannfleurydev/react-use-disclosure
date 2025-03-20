@@ -1,3 +1,15 @@
+# v8.0.1 (Thu Mar 20 2025)
+
+#### 🐛 Bug Fix
+
+- fix: forgot to build the package [#541](https://github.com/yoannfleurydev/react-use-disclosure/pull/541) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### Authors: 1
+
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v8.0.0 (Thu Mar 20 2025)
 
 #### 💥 Breaking Change
