@@ -31,6 +31,9 @@ jobs:
         env:
           CI: "true"
 
+      - name: Build
+        run: pnpm build
+
       - name: Test
         run: pnpm test
 
@@ -68,4 +71,5 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           pnpm install --frozen-lockfile
+          pnpm build
           npx auto shipit
