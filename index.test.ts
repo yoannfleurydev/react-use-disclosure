@@ -63,12 +63,14 @@ test("should toggle by given value", () => {
   expect(result.current.isOpen).toBe(true);
 
   act(() => {
+    // @ts-expect-error we expect TypeScript to break on that one, as we do not allow null in types
     result.current.toggle(null);
   });
 
   expect(result.current.isOpen).toBe(false);
 
   act(() => {
+    // @ts-expect-error this should not be valid for TS, but we expect JS to handle a string as `true`
     result.current.toggle("true");
   });
 
