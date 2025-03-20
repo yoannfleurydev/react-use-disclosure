@@ -1,4 +1,4 @@
-# useDisclosure
+# react-use-disclosure
 
 ![Node CI](https://github.com/yoannfleurydev/useDisclosure/workflows/Node%20CI/badge.svg)
 
@@ -27,7 +27,7 @@ import { useDisclosure } from "react-use-disclosure";
 const {
   isOpen: isModalOpen,
   open: openModal,
-  close: closeModal
+  close: closeModal,
 } = useDisclosure();
 
 const { isOpen: isTooltipOpen, toggle: toggleTooltip } = useDiclosure(true);
