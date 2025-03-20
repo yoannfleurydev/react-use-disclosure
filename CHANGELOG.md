@@ -1,3 +1,32 @@
+# v8.0.0 (Thu Mar 20 2025)
+
+#### 💥 Breaking Change
+
+- fix: meta for pkg pr new [#540](https://github.com/yoannfleurydev/react-use-disclosure/pull/540) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- feat: add pkg pr new [#540](https://github.com/yoannfleurydev/react-use-disclosure/pull/540) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- fix: package json for publishing [#540](https://github.com/yoannfleurydev/react-use-disclosure/pull/540) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- feat: remove typings as it is autobuild [#540](https://github.com/yoannfleurydev/react-use-disclosure/pull/540) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- ci: release fix [#540](https://github.com/yoannfleurydev/react-use-disclosure/pull/540) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- feat: global improvement on code, dependencies and flow [#540](https://github.com/yoannfleurydev/react-use-disclosure/pull/540) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump @babel/preset-react from 7.25.9 to 7.26.3 [#536](https://github.com/yoannfleurydev/react-use-disclosure/pull/536) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.25.9 to 7.26.0 [#535](https://github.com/yoannfleurydev/react-use-disclosure/pull/535) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump @babel/preset-env from 7.26.8 to 7.26.9 [#539](https://github.com/yoannfleurydev/react-use-disclosure/pull/539) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.26.7 to 7.26.8 [#538](https://github.com/yoannfleurydev/react-use-disclosure/pull/538) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @babel/preset-env from 7.26.0 to 7.26.7 [#537](https://github.com/yoannfleurydev/react-use-disclosure/pull/537) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v7.3.0 (Sun Oct 27 2024)
 
 #### 🚀 Enhancement
