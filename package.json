@@ -37,7 +37,7 @@
     "all-contributors-cli": "6.26.1",
     "auto": "11.3.0",
     "jsdom": "26.0.0",
-    "react": "19.0.0",
+    "react": "19.1.0",
     "react-test-renderer": "19.0.0",
     "tsup": "8.4.0",
     "typescript": "5.8.2",
