@@ -1,3 +1,17 @@
+# v8.1.0 (Thu Apr 03 2025)
+
+#### 🚀 Enhancement
+
+- feat: react 19.1 [#548](https://github.com/yoannfleurydev/react-use-disclosure/pull/548) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump @testing-library/react from 16.2.0 to 16.3.0 [#546](https://github.com/yoannfleurydev/react-use-disclosure/pull/546) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v8.0.3 (Thu Mar 20 2025)
 
 #### 🐛 Bug Fix
