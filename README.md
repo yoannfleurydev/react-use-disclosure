@@ -1,6 +1,6 @@
 # react-use-disclosure
 
-![Node CI](https://github.com/yoannfleurydev/useDisclosure/workflows/Node%20CI/badge.svg)
+[![Node CI](https://github.com/yoannfleurydev/react-use-disclosure/actions/workflows/nodejs.yml/badge.svg?branch=master)](https://github.com/yoannfleurydev/react-use-disclosure/actions/workflows/nodejs.yml)
 
 `useDiclosure` is a React custom hook to perform common open/close behavior on
 modals, tooltips etc.
