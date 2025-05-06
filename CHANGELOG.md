@@ -1,3 +1,21 @@
+# v8.2.0 (Tue May 06 2025)
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump jsdom from 26.0.0 to 26.1.0 [#551](https://github.com/yoannfleurydev/react-use-disclosure/pull/551) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump react-test-renderer from 19.0.0 to 19.1.0 [#549](https://github.com/yoannfleurydev/react-use-disclosure/pull/549) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump @types/react from 19.1.0 to 19.1.3 [#554](https://github.com/yoannfleurydev/react-use-disclosure/pull/554) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump typescript from 5.8.2 to 5.8.3 [#550](https://github.com/yoannfleurydev/react-use-disclosure/pull/550) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
 # v8.1.0 (Thu Apr 03 2025)
 
 #### 🚀 Enhancement
