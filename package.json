@@ -39,7 +39,7 @@
     "jsdom": "26.1.0",
     "react": "19.1.0",
     "react-test-renderer": "19.1.0",
-    "tsup": "8.4.0",
+    "tsup": "8.5.0",
     "typescript": "5.8.3",
     "vitest": "3.0.9"
   },
