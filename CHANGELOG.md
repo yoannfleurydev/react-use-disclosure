@@ -1,3 +1,33 @@
+# v9.0.0 (Tue Sep 16 2025)
+
+#### 💥 Breaking Change
+
+- build(deps-dev): bump jsdom from 26.1.0 to 27.0.0 [#564](https://github.com/yoannfleurydev/react-use-disclosure/pull/564) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump typescript from 5.8.3 to 5.9.2 [#562](https://github.com/yoannfleurydev/react-use-disclosure/pull/562) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump tsup from 8.4.0 to 8.5.0 [#556](https://github.com/yoannfleurydev/react-use-disclosure/pull/556) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump @types/react from 19.1.7 to 19.1.8 [#560](https://github.com/yoannfleurydev/react-use-disclosure/pull/560) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @types/react from 19.1.6 to 19.1.7 [#559](https://github.com/yoannfleurydev/react-use-disclosure/pull/559) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @types/react from 19.1.5 to 19.1.6 [#558](https://github.com/yoannfleurydev/react-use-disclosure/pull/558) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @types/react from 19.1.4 to 19.1.5 [#557](https://github.com/yoannfleurydev/react-use-disclosure/pull/557) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @types/react from 19.1.3 to 19.1.4 [#555](https://github.com/yoannfleurydev/react-use-disclosure/pull/555) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### ⚠️ Pushed to `master`
+
+- fix: remove Node 18 add Node 24 ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v8.2.0 (Tue May 06 2025)
 
 #### 🚀 Enhancement
