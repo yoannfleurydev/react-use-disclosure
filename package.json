@@ -41,7 +41,7 @@
     "react-dom": "19.2.4",
     "react-test-renderer": "19.2.4",
     "tsup": "8.5.1",
-    "typescript": "5.9.3",
+    "typescript": "6.0.2",
     "vitest": "4.0.18"
   },
   "auto": {
