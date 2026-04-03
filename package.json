@@ -21,8 +21,8 @@
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "dev": "tsup index.ts --format esm,cjs --dts --watch",
-    "build": "tsup index.ts --format esm,cjs --dts --minify",
+    "dev": "tsdown index.ts --format esm,cjs --dts --watch",
+    "build": "tsdown index.ts --format esm,cjs --dts --minify",
     "test": "vitest --no-watch",
     "test:coverage": "vitest --coverage",
     "test:watch": "vitest"
@@ -40,8 +40,8 @@
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-test-renderer": "19.2.4",
-    "tsup": "8.5.1",
-    "typescript": "5.9.3",
+    "tsdown": "0.12.6",
+    "typescript": "6.0.2",
     "vitest": "4.0.18"
   },
   "auto": {
@@ -52,8 +52,6 @@
     "onlyPublishWithReleaseLabel": true
   },
   "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild"
-    ]
+    "onlyBuiltDependencies": []
   }
 }
