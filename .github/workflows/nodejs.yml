@@ -2,6 +2,10 @@ name: Node CI
 
 on: [push]
 
+permissions:
+  id-token: write # Required for OIDC
+  contents: read
+
 jobs:
   tests:
     runs-on: ubuntu-latest
