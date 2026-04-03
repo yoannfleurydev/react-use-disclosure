@@ -1,3 +1,41 @@
+# v10.0.0 (Fri Apr 03 2026)
+
+#### 💥 Breaking Change
+
+- build(deps-dev): bump jsdom from 28.1.0 to 29.0.0 [#583](https://github.com/yoannfleurydev/react-use-disclosure/pull/583) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 27.4.0 to 28.0.0 [#579](https://github.com/yoannfleurydev/react-use-disclosure/pull/579) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🚀 Enhancement
+
+- build: tsdown [#587](https://github.com/yoannfleurydev/react-use-disclosure/pull/587) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump jsdom from 28.0.0 to 28.1.0 [#582](https://github.com/yoannfleurydev/react-use-disclosure/pull/582) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- fix: react version [#580](https://github.com/yoannfleurydev/react-use-disclosure/pull/580) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump jsdom from 27.3.0 to 27.4.0 [#576](https://github.com/yoannfleurydev/react-use-disclosure/pull/576) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 27.2.0 to 27.3.0 [#573](https://github.com/yoannfleurydev/react-use-disclosure/pull/573) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 27.1.0 to 27.2.0 [#570](https://github.com/yoannfleurydev/react-use-disclosure/pull/570) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 27.0.1 to 27.1.0 [#568](https://github.com/yoannfleurydev/react-use-disclosure/pull/568) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- fix: github write [#590](https://github.com/yoannfleurydev/react-use-disclosure/pull/590) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- feat: update dependencies [#589](https://github.com/yoannfleurydev/react-use-disclosure/pull/589) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- fix: ci publishing [#588](https://github.com/yoannfleurydev/react-use-disclosure/pull/588) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump jsdom from 29.0.0 to 29.0.1 [#585](https://github.com/yoannfleurydev/react-use-disclosure/pull/585) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @types/react from 19.2.13 to 19.2.14 [#581](https://github.com/yoannfleurydev/react-use-disclosure/pull/581) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @testing-library/react from 16.3.1 to 16.3.2 [#577](https://github.com/yoannfleurydev/react-use-disclosure/pull/577) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @testing-library/react from 16.3.0 to 16.3.1 [#575](https://github.com/yoannfleurydev/react-use-disclosure/pull/575) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump tsup from 8.5.0 to 8.5.1 [#569](https://github.com/yoannfleurydev/react-use-disclosure/pull/569) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump auto from 11.3.0 to 11.3.6 [#571](https://github.com/yoannfleurydev/react-use-disclosure/pull/571) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 27.0.0 to 27.0.1 [#567](https://github.com/yoannfleurydev/react-use-disclosure/pull/567) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump typescript from 5.9.2 to 5.9.3 [#565](https://github.com/yoannfleurydev/react-use-disclosure/pull/565) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v9.0.0 (Tue Sep 16 2025)
 
 #### 💥 Breaking Change
