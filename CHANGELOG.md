@@ -1,3 +1,25 @@
+# v12.0.0 (Sun Apr 19 2026)
+
+#### 💥 Breaking Change
+
+- fix: add exports field to package.json for ESM/CJS resolution [#597](https://github.com/yoannfleurydev/react-use-disclosure/pull/597) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump vitest from 4.0.18 to 4.1.2 [#591](https://github.com/yoannfleurydev/react-use-disclosure/pull/591) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- build(deps-dev): bump tsdown from 0.21.7 to 0.21.9 [#596](https://github.com/yoannfleurydev/react-use-disclosure/pull/596) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 29.0.1 to 29.0.2 [#592](https://github.com/yoannfleurydev/react-use-disclosure/pull/592) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v10.0.0 (Fri Apr 03 2026)
 
 #### 💥 Breaking Change
