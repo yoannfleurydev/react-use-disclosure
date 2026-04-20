@@ -1,3 +1,15 @@
+# v12.0.1 (Mon Apr 20 2026)
+
+#### 🐛 Bug Fix
+
+- ci: grant issues and pull-requests write to release workflow [#598](https://github.com/yoannfleurydev/react-use-disclosure/pull/598) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+#### Authors: 1
+
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v12.0.0 (Sun Apr 19 2026)
 
 #### 💥 Breaking Change
