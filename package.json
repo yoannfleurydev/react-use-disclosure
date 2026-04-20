@@ -49,9 +49,9 @@
     "all-contributors-cli": "6.26.1",
     "auto": "11.3.6",
     "jsdom": "29.0.2",
-    "react": "19.2.4",
-    "react-dom": "19.2.4",
-    "react-test-renderer": "19.2.4",
+    "react": "19.2.5",
+    "react-dom": "19.2.5",
+    "react-test-renderer": "19.2.5",
     "tsdown": "0.21.9",
     "typescript": "6.0.3",
     "vitest": "4.1.2"
