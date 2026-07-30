@@ -48,7 +48,7 @@
     "@vitest/coverage-v8": "4.1.6",
     "all-contributors-cli": "6.26.1",
     "auto": "11.3.6",
-    "jsdom": "29.1.1",
+    "jsdom": "30.0.1",
     "react": "19.2.6",
     "react-dom": "19.2.6",
     "react-test-renderer": "19.2.6",
