@@ -52,7 +52,7 @@
     "react": "19.2.6",
     "react-dom": "19.2.6",
     "react-test-renderer": "19.2.6",
-    "tsdown": "0.22.13",
+    "tsdown": "0.23.0",
     "typescript": "7.0.2",
     "vitest": "4.1.6"
   },
