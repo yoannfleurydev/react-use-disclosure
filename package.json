@@ -54,7 +54,7 @@
     "react-test-renderer": "19.2.6",
     "tsdown": "0.22.13",
     "typescript": "7.0.2",
-    "vitest": "4.1.6"
+    "vitest": "4.1.11"
   },
   "auto": {
     "plugins": [
