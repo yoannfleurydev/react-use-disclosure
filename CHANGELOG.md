@@ -1,3 +1,44 @@
+# v13.0.0 (Wed Sep 23 2026)
+
+#### 💥 Breaking Change
+
+- build(deps-dev): bump @vitest/coverage-v8 from 4.1.6 to 5.0.1 [#634](https://github.com/yoannfleurydev/react-use-disclosure/pull/634) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump vitest from 4.1.11 to 5.0.1 [#633](https://github.com/yoannfleurydev/react-use-disclosure/pull/633) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 29.1.1 to 30.0.1 [#624](https://github.com/yoannfleurydev/react-use-disclosure/pull/624) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🚀 Enhancement
+
+- build(deps-dev): bump jsdom from 30.0.1 to 30.1.0 [#635](https://github.com/yoannfleurydev/react-use-disclosure/pull/635) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump tsdown from 0.21.10 to 0.22.0 [#604](https://github.com/yoannfleurydev/react-use-disclosure/pull/604) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump jsdom from 29.0.2 to 29.1.0 [#601](https://github.com/yoannfleurydev/react-use-disclosure/pull/601) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- ci: a bit more cleaning [#636](https://github.com/yoannfleurydev/react-use-disclosure/pull/636) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- ci: update for trusted publishing and updated actions [#636](https://github.com/yoannfleurydev/react-use-disclosure/pull/636) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps): bump brace-expansion from 1.1.12 to 1.1.21 [#630](https://github.com/yoannfleurydev/react-use-disclosure/pull/630) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump vitest from 4.1.6 to 4.1.11 [#628](https://github.com/yoannfleurydev/react-use-disclosure/pull/628) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @testing-library/react from 16.3.2 to 16.3.3 [#626](https://github.com/yoannfleurydev/react-use-disclosure/pull/626) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- feat: update to TS 7 [#625](https://github.com/yoannfleurydev/react-use-disclosure/pull/625) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump tsdown from 0.22.3 to 0.22.13 [#620](https://github.com/yoannfleurydev/react-use-disclosure/pull/620) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump tsdown from 0.22.2 to 0.22.3 [#613](https://github.com/yoannfleurydev/react-use-disclosure/pull/613) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump tsdown from 0.22.1 to 0.22.2 [#612](https://github.com/yoannfleurydev/react-use-disclosure/pull/612) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump tsdown from 0.22.0 to 0.22.1 [#610](https://github.com/yoannfleurydev/react-use-disclosure/pull/610) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump @vitest/coverage-v8 from 4.1.2 to 4.1.6 [#608](https://github.com/yoannfleurydev/react-use-disclosure/pull/608) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- feat: multiple package upgrade [#605](https://github.com/yoannfleurydev/react-use-disclosure/pull/605) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump jsdom from 29.1.0 to 29.1.1 [#602](https://github.com/yoannfleurydev/react-use-disclosure/pull/602) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- build(deps-dev): bump tsdown from 0.21.9 to 0.21.10 [#600](https://github.com/yoannfleurydev/react-use-disclosure/pull/600) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- fix: remove node 20 [#599](https://github.com/yoannfleurydev/react-use-disclosure/pull/599) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- feat: upgrade react [#599](https://github.com/yoannfleurydev/react-use-disclosure/pull/599) ([@yoannfleurydev](https://github.com/yoannfleurydev))
+- build(deps-dev): bump typescript from 6.0.2 to 6.0.3 [#595](https://github.com/yoannfleurydev/react-use-disclosure/pull/595) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Yoann Fleury ([@yoannfleurydev](https://github.com/yoannfleurydev))
+
+---
+
 # v12.0.1 (Mon Apr 20 2026)
 
 #### 🐛 Bug Fix
