@@ -13,6 +13,7 @@
   },
   "type": "module",
   "license": "MIT",
+  "packageManager": "pnpm@12.14.0",
   "files": [
     "index.*",
     "dist/"
