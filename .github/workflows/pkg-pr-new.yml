@@ -6,24 +6,25 @@ on:
   pull_request_review:
     types: [submitted]
 
+permissions:
+  contents: read
+
 jobs:
   deploy-preview:
     name: Deploy to pkg.pr.new
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: pnpm/action-setup@v3
-        with:
-          version: 10
+      - uses: pnpm/action-setup@v6
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: 22
+          node-version: 24
           cache: pnpm
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
 
       - name: Build package
         run: pnpm build
@@ -34,6 +35,6 @@ jobs:
           echo "::notice title=Install (PR)::pnpm add https://pkg.pr.new/react-use-disclosure@${{ github.event.pull_request.number }}"
           echo "::notice title=Install (SHA)::pnpm add https://pkg.pr.new/react-use-disclosure@${{ github.event.pull_request.head.sha }}"
           echo "::notice title=Version::0.0.0-preview.${{ github.event.pull_request.head.sha }}"
-        working-directory: .
+
       - name: Publish to pkg.pr.new
-        run: pnpx pkg-pr-new publish --compact '.' --no-template --packageManager=pnpm --pnpm
+        run: pnpm dlx pkg-pr-new publish --compact '.' --no-template --packageManager=pnpm --pnpm

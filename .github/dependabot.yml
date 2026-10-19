@@ -10,3 +10,7 @@ updates:
   - dependency-name: auto
     versions:
     - 10.20.1
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: weekly
