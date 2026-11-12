@@ -176,8 +176,8 @@ importers:
         specifier: 5.0.1
         version: 5.0.1(vitest@5.0.1)
       all-contributors-cli:
-        specifier: 7.0.0
-        version: 7.0.0(@types/node@22.14.0)
+        specifier: 7.0.1
+        version: 7.0.1(@types/node@22.14.0)
       auto:
         specifier: 11.3.6
         version: 11.3.6(@types/node@22.14.0)(supports-color@7.2.0)(typescript@7.0.2)
@@ -1023,8 +1023,8 @@ packages:
     resolution: {integrity: sha512-RZNwNclF7+MS/8bDg70amg32dyeZGZxiDuQmZxKLAlQjr3jGyLx+4Kkk58UO7D2QdgFIQCovuSuZESne6RG6XQ==}
     engines: {node: '>= 6.0.0'}
 
-  all-contributors-cli@7.0.0:
-    resolution: {integrity: sha512-Ng5BzMGjyd5BOKONQLkZ0udJBuda65t+CmhGoURhHmfuztvCjLw/CkRuA/lj1+FgqWvzv06IOEgxt6h+7GlSBQ==}
+  all-contributors-cli@7.0.1:
+    resolution: {integrity: sha512-gMP/2fSB3aUjM147lCFIGoALT7d4+RzPNicUvmTFh1aCBp8eprureRWaOvmkAGg3Esc2IJTeW9mh/LB+RDQevQ==}
     engines: {node: '>=22.22.0'}
     hasBin: true
 
@@ -3147,7 +3147,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  all-contributors-cli@7.0.0(@types/node@22.14.0):
+  all-contributors-cli@7.0.1(@types/node@22.14.0):
     dependencies:
       eta: 4.6.0
       inquirer: 14.2.5(@types/node@22.14.0)
